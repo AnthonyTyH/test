@@ -1,0 +1,12 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/VSWorkspaceState.json
+/.vs/OptiVision_PTC/FileContentIndex/4a42c1b5-7e42-4b14-938a-4c8ad5fe9321.vsidx
+/.vs/OptiVision_PTC/v17/.wsuo
+/.vs/OptiVision_PTC/FileContentIndex/95858abd-fb0e-4021-bb79-bae308571349.vsidx
+/.vs/OptiVision_PTC/FileContentIndex/ea83a92c-d214-41dd-adf5-2270be739842.vsidx
+/.vs/OptiVision_PTC/FileContentIndex/491532e9-a67d-4872-ac27-2eb32c5e4e99.vsidx
+*.vsidx
+*.sqlite

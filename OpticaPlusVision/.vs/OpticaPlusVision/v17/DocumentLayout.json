@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EXPO\\OptiVision_PTC\\OpticaPlusVision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A290F48-EAEC-4AD5-9ED6-13D44B549A80}|OpticaPlusVision.csproj|e:\\expo\\optivision_ptc\\opticaplusvision\\vista\\formproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A290F48-EAEC-4AD5-9ED6-13D44B549A80}|OpticaPlusVision.csproj|solutionrelative:vista\\formproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A290F48-EAEC-4AD5-9ED6-13D44B549A80}|OpticaPlusVision.csproj|E:\\EXPO\\OptiVision_PTC\\OpticaPlusVision\\vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A290F48-EAEC-4AD5-9ED6-13D44B549A80}|OpticaPlusVision.csproj|solutionrelative:vista\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\EXPO\\OptiVision_PTC\\OpticaPlusVision\\Vista\\FormProveedores.cs",
+              "RelativeDocumentMoniker": "Vista\\FormProveedores.cs",
+              "ToolTip": "E:\\EXPO\\OptiVision_PTC\\OpticaPlusVision\\Vista\\FormProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vista\\FormProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T04:17:20.344Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\EXPO\\OptiVision_PTC\\OpticaPlusVision\\Vista\\Login.cs",
+              "RelativeDocumentMoniker": "Vista\\Login.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Marcoxlvarezx\\OptiVision_PTC\\OpticaPlusVision\\Vista\\Login.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T23:11:00.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

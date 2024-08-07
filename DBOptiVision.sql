@@ -1,0 +1,95 @@
+CREATE DATABASE DbOPtivision
+GO
+
+USE DbOPtivision
+GO
+
+--- USUARIOS ---
+
+CREATE TABLE Personas (
+	ID_Persona	INT PRIMARY KEY IDENTITY (1,1),
+	Nombre_Persona VARCHAR(100) NOT NULL,
+	Apellido_Persona VARCHAR(100) NOT NULL,
+	Telefono VARCHAR(15) UNIQUE,
+	Email VARCHAR (255) UNIQUE NOT NULL
+	)
+GO
+
+CREATE TABLE Roles (
+	ID_Rol INT PRIMARY KEY IDENTITY (1,1),
+	Nombre_Rol VARCHAR(100) UNIQUE NOT NULL
+	)
+GO
+
+CREATE TABLE Preguntas (
+	ID_Pregunta INT PRIMARY KEY IDENTITY(1,1),
+	Pregunta VARCHAR(255)
+	)
+GO
+
+CREATE TABLE Estado (
+	ID_Estado INT IDENTITY PRIMARY KEY,
+	Nombre_Estado VARCHAR(100) NOT NULL,
+	Descripcion_Estado VARCHAR(255),
+	Relacionado_Con_Opcion_Estado VARCHAR(255) NOT NULL DEFAULT 'Todos'
+	)
+GO
+
+CREATE TABLE Usuarios (
+	ID_Usuario INT IDENTITY PRIMARY KEY,
+	Username VARCHAR(100) UNIQUE NOT NULL,
+	Password VARCHAR(100) NOT NULL,
+	ID_Persona INT FOREIGN KEY REFERENCES Personas(ID_Persona),
+	ID_Rol INT FOREIGN KEY REFERENCES Roles(ID_Rol),
+	ID_Pregunta INT FOREIGN KEY REFERENCES Preguntas(ID_Pregunta) 
+ 	)
+GO
+
+CREATE TABLE Intentos_Login (
+	ID_Intento INT IDENTITY PRIMARY KEY,
+	ID_Usuario INT FOREIGN KEY REFERENCES Usuarios(ID_Usuario),	
+	Cantidad_De_Intentos_Fallidos INT NOT NULL DEFAULT 3,
+	ID_Estado INT FOREIGN KEY REFERENCES Estado(ID_Estado)
+	)
+GO
+
+CREATE TABLE Historial_Sesiones (
+	ID_Sesion INT IDENTITY PRIMARY KEY,
+	ID_Usuario INT FOREIGN KEY REFERENCES Usuarios(ID_Usuario),
+	Fecha DATETIME NOT NULL,
+	ID_Estado INT FOREIGN KEY REFERENCES Estado(ID_Estado)
+	)
+GO
+
+CREATE TABLE Respuestas (
+	ID_Respuesta INT IDENTITY PRIMARY KEY,
+	Respuesta_Usuario VARCHAR(200) NOT NULL,
+	ID_Usuario INT FOREIGN KEY REFERENCES Usuarios(ID_Usuario),
+	ID_Pregunta INT FOREIGN KEY REFERENCES Preguntas(ID_Pregunta)
+	)
+GO
+
+--- INVENTARIO ---
+CREATE TABLE Tipo_Producto (
+	ID_Tipo_Producto INT IDENTITY PRIMARY KEY,
+	Nombre_Tipo VARCHAR(100) NOT NULL
+	)
+GO
+
+CREATE TABLE Producto (
+	ID_Producto INT PRIMARY KEY IDENTITY,
+	Nombre_Producto VARCHAR(100) NOT NULL, 
+	Precio_Producto DECIMAL (10,2) NOT NULL,
+	ID_Tipo_Producto INT FOREIGN KEY REFERENCES Tipo_Producto(ID_Tipo_Producto),
+	ID_Estado INT FOREIGN KEY REFERENCES Estado(ID_Estado)
+	)
+GO
+
+CREATE TABLE Inventario (
+	ID_Inventario INT IDENTITY PRIMARY KEY,
+	ID_Producto INT FOREIGN KEY REFERENCES Producto(ID_Producto) NOT NULL,
+	Cantidad_Producto INT NOT NULL,
+	Fecha_Actualizacion DATETIME NOT NULL,
+	)
+GO
+

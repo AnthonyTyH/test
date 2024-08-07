@@ -1,0 +1,73 @@
+E:\PTC plus vision\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe.config
+E:\PTC plus vision\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe
+E:\PTC plus vision\OpticaPlusVision\bin\Debug\OpticaPlusVision.pdb
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.AssemblyReference.cache
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.Properties.Resources.resources
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.GenerateResource.cache
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.CoreCompileInputs.cache
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.exe
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.pdb
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.Login.resources
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormPrincipal.resources
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.Productos.resources
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.AgregarClientes.resources
+E:\PTC plus vision\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormVentas.resources
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe.config
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.pdb
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.AssemblyReference.cache
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.AgregarClientes.resources
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormVentas.resources
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Login.resources
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Properties.Resources.resources
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormPrincipal.resources
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.Productos.resources
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.GenerateResource.cache
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.CoreCompileInputs.cache
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.exe
+C:\Users\MARCO\Documents\Visual Studio 2022\Projects\Marco Alvarez\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.pdb
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe.config
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.pdb
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.AgregarClientes.resources
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.Proveedores.resources
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormVentas.resources
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Login.resources
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormPrincipal.resources
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.Productos.resources
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.exe
+C:\Users\Usuario\Source\Repos\Marcoxlvarezx\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.pdb
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe.config
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.pdb
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.AssemblyReference.cache
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.AgregarClientes.resources
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.Proveedores.resources
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormVentas.resources
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Login.resources
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Properties.Resources.resources
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormPrincipal.resources
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.Productos.resources
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.GenerateResource.cache
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.CoreCompileInputs.cache
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.exe
+E:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.pdb
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe.config
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.exe
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\bin\Debug\OpticaPlusVision.pdb
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.AssemblyReference.cache
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.AgregarClientes.resources
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.Proveedores.resources
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormVentas.resources
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Login.resources
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Properties.Resources.resources
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.FormPrincipal.resources
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.Vista.Productos.resources
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.GenerateResource.cache
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.csproj.CoreCompileInputs.cache
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.exe
+D:\EXPO\OptiVision_PTC\OpticaPlusVision\obj\Debug\OpticaPlusVision.pdb
